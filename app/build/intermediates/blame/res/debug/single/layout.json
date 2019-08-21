@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ChaiHout\\Projects\\kickstart_mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\ChaiHout\\Projects\\kickstart_mvvm\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ChaiHout\\Projects\\kickstart_mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_list.xml",
+        "source": "D:\\ChaiHout\\Projects\\kickstart_mvvm\\app\\src\\main\\res\\layout\\activity_user_list.xml"
+    }
+]
